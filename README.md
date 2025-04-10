@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Esther Chukwudi
-#### "A Data Analyst"
+## *A Data Analyst*
 
-"I'm proficient in the use of Excel, SQL, & PowerBi"
+I'm proficient in the use of Excel, SQL, & PowerBi
 
 <!--
 **Esther-Chukwudi/Esther-Chukwudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
